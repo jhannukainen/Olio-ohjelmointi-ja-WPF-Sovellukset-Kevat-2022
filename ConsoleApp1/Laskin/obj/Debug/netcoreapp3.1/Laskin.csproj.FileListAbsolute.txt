@@ -1,0 +1,13 @@
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\bin\Debug\netcoreapp3.1\Laskin.exe
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\bin\Debug\netcoreapp3.1\Laskin.deps.json
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.json
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.dev.json
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\bin\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\bin\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfoInputs.cache
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfo.cs
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\jonne.hannukainen\source\repos\jhannukainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Laskin\obj\Debug\netcoreapp3.1\Laskin.genruntimeconfig.cache
