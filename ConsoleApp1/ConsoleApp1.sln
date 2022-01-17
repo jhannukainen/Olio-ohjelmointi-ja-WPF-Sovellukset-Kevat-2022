@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laskin", "Laskin\Laskin.csproj", "{EE4E3531-5F19-4264-9FAA-1660180AA6A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laskin", "Laskin\Laskin.csproj", "{EE4E3531-5F19-4264-9FAA-1660180AA6A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjotus", "henkilö\harjotus.csproj", "{2BD685A3-B3D6-4ABA-B537-913FF247C3BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjotus 6", "Harjotus 6\Harjotus 6.csproj", "{2BFE5E05-3C68-43C3-B7D9-81141BDA2A8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjotus 7", "hissiharjotus\harjotus 7.csproj", "{67972C9E-2232-4F4C-B7B7-00B52FA67C5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjotus8", "Harjotus8\Harjotus8.csproj", "{1023BB89-69ED-4690-A5DB-B074D376E0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus10", "Harjotus10\Harjotus10.csproj", "{EA2A4FEF-1595-43FA-907A-8A659B73A18B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{EE4E3531-5F19-4264-9FAA-1660180AA6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE4E3531-5F19-4264-9FAA-1660180AA6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE4E3531-5F19-4264-9FAA-1660180AA6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD685A3-B3D6-4ABA-B537-913FF247C3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD685A3-B3D6-4ABA-B537-913FF247C3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD685A3-B3D6-4ABA-B537-913FF247C3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD685A3-B3D6-4ABA-B537-913FF247C3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFE5E05-3C68-43C3-B7D9-81141BDA2A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFE5E05-3C68-43C3-B7D9-81141BDA2A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFE5E05-3C68-43C3-B7D9-81141BDA2A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFE5E05-3C68-43C3-B7D9-81141BDA2A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67972C9E-2232-4F4C-B7B7-00B52FA67C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67972C9E-2232-4F4C-B7B7-00B52FA67C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67972C9E-2232-4F4C-B7B7-00B52FA67C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67972C9E-2232-4F4C-B7B7-00B52FA67C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1023BB89-69ED-4690-A5DB-B074D376E0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1023BB89-69ED-4690-A5DB-B074D376E0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1023BB89-69ED-4690-A5DB-B074D376E0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1023BB89-69ED-4690-A5DB-B074D376E0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2A4FEF-1595-43FA-907A-8A659B73A18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2A4FEF-1595-43FA-907A-8A659B73A18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2A4FEF-1595-43FA-907A-8A659B73A18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2A4FEF-1595-43FA-907A-8A659B73A18B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
